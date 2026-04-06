@@ -1,4 +1,4 @@
 # school_dashboard_demo
 This is my Firt Repository 
 <br>
-Author - Amanjeet Singh
+Author - Amanjeet git
